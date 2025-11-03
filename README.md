@@ -1,1 +1,0 @@
-Simulating gravity using C++.
